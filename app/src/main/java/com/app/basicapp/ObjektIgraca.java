@@ -22,7 +22,7 @@ public class ObjektIgraca {
         slika = BitmapFactory.decodeResource(context.getResources(), R.drawable.objektigraca);
     }
 
-    //Getters
+    
     public Bitmap getBitmap() {
         return slika;
     }
