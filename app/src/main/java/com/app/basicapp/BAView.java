@@ -39,7 +39,7 @@ public class BAView extends SurfaceView implements Runnable {
 
     @Override
     public void run() {
-        Log.i("poruka","RUNNNNNNNNNNNNNNN");
+       
         while (igra) {
             Log.i("poruka","a");
             obnovi();
@@ -85,8 +85,7 @@ public class BAView extends SurfaceView implements Runnable {
         } catch (InterruptedException e) {
         }
     }
-    // Make a new thread and start it
-    // Execution moves to our R
+ 
     public void resume() {
         igra = true;
         dretvaIgre = new Thread(this);
