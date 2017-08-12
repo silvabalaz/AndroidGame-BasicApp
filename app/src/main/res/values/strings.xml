@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">BasicApp</string>
+    <string name="najbolji_rezultat">Najbolji rezultat:10 000</string>
 </resources>
