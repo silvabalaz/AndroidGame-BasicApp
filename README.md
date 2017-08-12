@@ -18,6 +18,6 @@ android.view.SurfaceView klasa omogućuje iscrtavanje slika, teksta, linija ali 
 
 *Funkcionalnost* (dinamičko iscrtavanje viewa) određeno je u GameActivity.java. <br/>
 
-Sve activity označene su u AndroidManifest.xml datoteci , gdje je pogled napješten na full screen.
+Sve activity označene su u AndroidManifest.xml datoteci , gdje je pogled namješten na full screen.
 
 
