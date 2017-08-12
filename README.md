@@ -2,8 +2,8 @@
 Osnovna aplikacija za izradu igre u Android Studiu
 
 **1. Kreiranje početnog  ekrana (UI)** <br/>
-*Izgled* određen u activity_main.xml koji sadrži jedan TexView i Button i koristi background.png. Orijentacija ekrana landscape.
-*Funkcijonalnost* određena u MainActivity.java gdje je ulaz u igru metodom OnCreate. SetContentView koji generira UI iz layouta activity_main.xml igračima igre na zaslon.
+*Izgled* određen u activity_main.xml koji sadrži jedan TexView i Button i koristi background.png. Orijentacija ekrana landscape.<br/>
+*Funkcijonalnost* određena u MainActivity.java gdje je ulaz u igru metodom OnCreate. SetContentView koji generira UI iz layouta activity_main.xml igračima igre na zaslon.<br/>
 Gumb Igraj <br/>
 referenca na gumb iz layouta (findViewById) <br/>
 osluškivanje kada ce netko kliknuti gumb (SetOnClickListener) <br/>
